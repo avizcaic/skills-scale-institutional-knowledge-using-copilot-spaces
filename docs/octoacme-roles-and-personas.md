@@ -75,7 +75,135 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA/Testing Lead
+
+### Role Summary
+QA/Testing Leads own quality strategy, test planning, and acceptance validation. They work with Developers and Product Managers to verify that features meet quality standards and acceptance criteria.
+
+### Responsibilities
+- Define the test strategy and create test plans
+- Execute manual and automated testing
+- Validate acceptance criteria
+- Document defects with clear reproduction steps
+- Coordinate security and performance testing
+
+### Goals
+- Ensure high-quality releases
+- Reduce cycle time through automation
+- Improve team confidence in release readiness
+
+### Typical Communication
+- Sprint planning and acceptance criteria reviews
+- Test status updates
+- Quality dashboards and defect reports
+
+---
+
+## Stakeholder/Sponsor
+
+### Role Summary
+Stakeholders and Sponsors are business or organizational leaders who provide approval, direction, and resource support. They provide business context and help keep project decisions aligned with organizational priorities.
+
+### Responsibilities
+- Approve project charters
+- Provide business context
+- Unblock constraints and resource needs
+- Accept deliverables
+- Communicate project outcomes
+
+### Goals
+- Deliver business value
+- Maintain strategic alignment
+- Provide timely decisions
+
+### Typical Communication
+- Project kickoffs
+- Milestone reviews
+- Monthly updates
+
+---
+
+## Technical Lead/Architect
+
+### Role Summary
+Technical Leads and Architects design system solutions and guide technical decisions to ensure that implementations meet product needs and technical standards.
+
+### Responsibilities
+- Conduct design reviews
+- Guide technology choices and trade-off decisions
+- Mentor Developers
+- Identify technical risks
+- Ensure quality, performance, and security standards
+
+### Goals
+- Build scalable systems
+- Reduce technical debt
+- Accelerate delivery
+
+### Typical Communication
+- Design reviews
+- Code review feedback
+- Technical risk updates
+
+---
+
+## Security/Compliance Officer
+
+### Role Summary
+Security and Compliance Officers ensure that features and project practices meet security and compliance standards.
+
+### Responsibilities
+- Review features for security impact
+- Conduct security and compliance assessments
+- Define security criteria
+- Escalate incidents
+- Maintain compliance documentation
+
+### Goals
+- Build secure, compliant features
+- Reduce vulnerabilities
+- Maintain compliance posture
+
+### Typical Communication
+- Design reviews
+- Incident escalations
+- Compliance checklists
+
+---
+
+## Scrum Master/Agile Coach
+
+### Role Summary
+Scrum Masters and Agile Coaches facilitate team ceremonies and support continuous improvement in the team's delivery practices.
+
+### Responsibilities
+- Facilitate standups, planning, reviews, and retrospectives
+- Remove blockers
+- Coach the team on agile practices
+- Track team metrics
+- Foster psychological safety
+
+### Goals
+- Enable team autonomy
+- Improve velocity
+- Build a learning culture
+
+### Typical Communication
+- Daily standups
+- Retrospectives
+- Coaching sessions
+
+---
+
+## How these roles interact
+- **Developers** collaborate with QA/Testing Leads on test strategy and defect resolution, and with Technical Leads/Architects on design and technical decisions.
+- **Product Managers** work with Stakeholders/Sponsors on business priorities and outcomes, and with QA/Testing Leads to validate acceptance criteria.
+- **Project Managers** coordinate delivery across all roles and engage Stakeholders/Sponsors on decisions and Security/Compliance Officers on risks and compliance needs.
+- **Technical Leads/Architects** guide Developers and coordinate with Security/Compliance Officers on secure designs.
+- **Scrum Masters/Agile Coaches** facilitate team ceremonies and continuous improvement across Developers, Product Managers, Project Managers, and specialists.
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
