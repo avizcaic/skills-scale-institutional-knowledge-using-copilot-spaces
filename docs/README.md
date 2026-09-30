@@ -36,7 +36,7 @@ OctoAcme treats retrospectives as a formal process, converting insights into pri
 - **Data-informed decisions:** measure impact and iterate based on evidence
 - **Psychological safety:** encourage feedback and learning
 
-## Navigation by Persona
+## Quick Navigation by Persona
 
 ### For Developers
 Start with [Roles and Personas](./octoacme-roles-and-personas.md) to understand your responsibilities, then review:
